@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699537991 source:d:\c++\equation ax^2+bx+c=0\main.cpp
+	<iostream>
+	<cmath>
+
